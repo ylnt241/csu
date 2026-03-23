@@ -17,9 +17,17 @@
   2. Лазерный луч/лазер
   3. Обратно совместимый
 
-- C  TODO:
+- C
 
-- D TODO:
+- D
+
+  1. True
+  2. False. Their dimensions are 1.2 mm thick and 12 cm in diameter.
+  3. True
+  4. False. Basic DVD can hold 4.7 GB
+  5. False. You need DVD drive/player. 
+  6. True.
+  7. False. DVD Writer backward compatible. 
 
 #### №2 
 - A 
