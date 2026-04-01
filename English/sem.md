@@ -12,7 +12,10 @@
     - [Unit 12](#unit-12)
       - [№1](#1-1)
       - [№2](#2-1)
-      - [ДЗ:](#дз)
+      - [Homework](#homework)
+  - [02.04.26](#020426)
+    - [Homework](#homework-1)
+      - [№2](#2-2)
 <!--toc:end-->
 
 ## 25.03.26
@@ -196,6 +199,63 @@ Hybrid -- гибрид
   6. Flash card reader
   7. Hybrid
 
-#### ДЗ
+#### Homework
 
 Стр. 57, 58, 59 упр. 2-B, 3-A,B
+
+## 02.04.26
+### Homework
+
+#### №2 
+
+- B 
+  
+  1. >What is flash memory?
+
+  Flash memory is a type of non-volatile memory that can be electronically erased and reprogrammed.
+
+  2. >What are differences between RAM memory and flash memory?
+
+  Unlike RAM, which is volatile, flash memory retains the information stored in the chip when the power is turned off. In addition, it offers fast read access times (although not as fast as RAM), with transfer rates of 12MB per second.
+
+  3. >What can devices which use multi-level cell technology do?
+
+  They can do anything.
+
+  4. >What are the differences between flash drives and external hard drives?
+
+  Flash drives don`t have fragile moving parts that can break if dropped. However, Flash drives have less storage capacity than hard  drives.
+
+  5. >What is the advantage of using U3 technology in flash drives?
+
+  U3 smart drives allow users to store both applications and data. They have two drive partitions and can carry applications that run on the host computer without requiring installation.
+
+  6. >How much data can a flash memory card hold? 
+
+  Consumers flash memory card can hold up to 2 TB.
+
+  7. >What is the name of the flash card created by Sony for its digital cameras?
+
+  The name of the flash card created by Sony for its digital cameras is "Memory Stick".
+
+#### №3 
+
+- A
+
+| blog | mail | print |
+| --------------- | --------------- | --------------- |
+| blogger | to mail | printout |
+| blogs | e-mail | mailing |
+| blogosphere | mailbox | printer |
+| blogless | mailer-daemon | reprint |
+
+- B
+  
+  1. lightweight
+  2. recording
+  3. playback 
+  4. folders 
+  5. activation 
+  6. connector 
+  7. upload 
+  8. storage
