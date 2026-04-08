@@ -204,41 +204,42 @@ Hybrid -- гибрид
 Стр. 57, 58, 59 упр. 2-B, 3-A,B
 
 ## 02.04.26
+
 ### Homework
 
-#### №2 
+#### №2
 
-- B 
+- B
   
   1. >What is flash memory?
 
   Flash memory is a type of non-volatile memory that can be electronically erased and reprogrammed.
 
-  2. >What are differences between RAM memory and flash memory?
+  1. >What are differences between RAM memory and flash memory?
 
   Unlike RAM, which is volatile, flash memory retains the information stored in the chip when the power is turned off. In addition, it offers fast read access times (although not as fast as RAM), with transfer rates of 12MB per second.
 
-  3. >What can devices which use multi-level cell technology do?
+  1. >What can devices which use multi-level cell technology do?
 
   They can do anything.
 
-  4. >What are the differences between flash drives and external hard drives?
+  1. >What are the differences between flash drives and external hard drives?
 
   Flash drives don`t have fragile moving parts that can break if dropped. However, Flash drives have less storage capacity than hard  drives.
 
-  5. >What is the advantage of using U3 technology in flash drives?
+  1. >What is the advantage of using U3 technology in flash drives?
 
   U3 smart drives allow users to store both applications and data. They have two drive partitions and can carry applications that run on the host computer without requiring installation.
 
-  6. >How much data can a flash memory card hold? 
+  1. >How much data can a flash memory card hold?
 
   Consumers flash memory card can hold up to 2 TB.
 
-  7. >What is the name of the flash card created by Sony for its digital cameras?
+  1. >What is the name of the flash card created by Sony for its digital cameras?
 
   The name of the flash card created by Sony for its digital cameras is "Memory Stick".
 
-#### №3 
+#### №3
 
 - A
 
@@ -253,9 +254,15 @@ Hybrid -- гибрид
   
   1. lightweight
   2. recording
-  3. playback 
-  4. folders 
-  5. activation 
-  6. connector 
-  7. upload 
+  3. playback
+  4. folders
+  5. activation
+  6. connector
+  7. upload
   8. storage
+
+1 неделя -- понедельник четвертая, 2 неделя -- вторник, четвертая пара. 132б
+
+#### Homework
+
+Monologue storage devices: Что такое storage devices, основные типы, про каждый тип рассказать -- какую задачу решают, устаревшие/нет, суть технологии. Как соединяются эти устройства.
