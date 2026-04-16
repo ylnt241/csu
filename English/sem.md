@@ -16,6 +16,15 @@
   - [02.04.26](#020426)
     - [Homework](#homework-1)
       - [№2](#2-2)
+      - [№3](#3-1)
+      - [Homework](#homework-2)
+    - [2026-04-16](#2026-04-16)
+      - [D](#d)
+      - [Selling linux](#selling-linux)
+        - [New world order](#new-world-order)
+          - [Creation](#creation)
+          - [Myths about GNU/Linux](#myths-about-gnulinux)
+          - [Pros and cons of GNU/Linux](#pros-and-cons-of-gnulinux)
 <!--toc:end-->
 
 ## 25.03.26
@@ -266,3 +275,44 @@ Hybrid -- гибрид
 #### Homework
 
 Monologue storage devices: Что такое storage devices, основные типы, про каждый тип рассказать -- какую задачу решают, устаревшие/нет, суть технологии. Как соединяются эти устройства.
+
+### 2026-04-16
+
+#### D
+
+1. User inteface -- Пользовательский интерфейс
+2. Procedures -- процедуры/последовательности действий
+3. Commands -- команды оболочки/вызов программ
+4. Tools -- Инструменты
+5. Desktop -- метафора рабочего стола
+6. Nested folders -- вложенные директории
+7. Launch a program -- запустить программу
+8. Source code -- Исходный код
+
+#### Selling linux
+
+##### New world order
+
+###### Creation
+
+In December 1991, a Finnish student released version 0.1 of the Linux kernel. At the same time, GNU (GNU is Not Unix) under the leadership of RMS already had the full set of necessary programs under the GPL (a copyleft license) and was in search of a kernel. They found the Linux kernel, which had been under the GPL since 7 March 1992, very useful, because with it they could already work in a fully free (as in libre) system.
+
+###### Myths about GNU/Linux
+
+Nowadays we often hear that you cannot sell or use GNU/Linux in a production environment because it's free and has no warranty – but this is not true. GNU/Linux is free as in libre, not as in beer (though the latter is also true for some distributions), and there are plenty of organizations that will help you with that.
+
+The next myth tells us that you can't use GNU/Linux without special hardware, but this is also a lie. You can install GNU/Linux and use it everywhere: phones, desktop PCs, laptops, mainframes, IoT, etc., etc.
+
+###### Pros and cons of GNU/Linux
+
+Pros:
+
+1. It's fully free and open-source.
+2. You can customize it for your needs whenever you like.
+
+Cons:
+
+1. You need to study new OS, interface and a way of thinking.
+2. You need to choose between many of distributions and companies.
+
+Use GNU/Linux and become part of new world order!
