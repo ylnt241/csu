@@ -316,3 +316,12 @@ Cons:
 2. You need to choose between many of distributions and companies.
 
 Use GNU/Linux and become part of new world order!
+
+
+## 21-04-26
+
+### Homework 
+
+#### Summary about my achievments at Chelyabinsk State University
+
+First of all, I am still here -– and that is quite an achievement itself. Second, as a direct result of the first, I successfully passed my first exam session, receiving a “good” grade in Computer Science and an “excellent” in Programming. Third, I have dived deeper into programming, mastered new principles, and significantly improved as a programmer. Fourth, an achievement not directly related to university but coinciding with this period: I learned to take a simpler view of the world and stopped worrying about minor issues. Fifth, I have also developed better study habits and time management skills, allowing me to balance coursework, personal projects, and rest. Additionally, I began collaborating on coding tasks, which enhanced my teamwork and communication abilities. 
