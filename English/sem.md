@@ -317,11 +317,60 @@ Cons:
 
 Use GNU/Linux and become part of new world order!
 
-
 ## 21-04-26
 
-### Homework 
+### Homework
 
 #### Summary about my achievments at Chelyabinsk State University
 
-First of all, I am still here -– and that is quite an achievement itself. Second, as a direct result of the first, I successfully passed my first exam session, receiving a “good” grade in Computer Science and an “excellent” in Programming. Third, I have dived deeper into programming, mastered new principles, and significantly improved as a programmer. Fourth, an achievement not directly related to university but coinciding with this period: I learned to take a simpler view of the world and stopped worrying about minor issues. Fifth, I have also developed better study habits and time management skills, allowing me to balance coursework, personal projects, and rest. Additionally, I began collaborating on coding tasks, which enhanced my teamwork and communication abilities. 
+First of all, I am still here -– and that is quite an achievement itself. Second, as a direct result of the first, I successfully passed my first exam session, receiving a “good” grade in Computer Science and an “excellent” in Programming. Third, I have dived deeper into programming, mastered new principles, and significantly improved as a programmer. Fourth, an achievement not directly related to university but coinciding with this period: I learned to take a simpler view of the world and stopped worrying about minor issues. Fifth, I have also developed better study habits and time management skills, allowing me to balance coursework, personal projects, and rest. Additionally, I began collaborating on coding tasks, which enhanced my teamwork and communication abilities.
+
+### Unit 14
+
+Word processing -- is the act of using a computer to transform written, verbal or recorded information into typed, written or printed form.
+
+Word processor -- is a software allows users to edit text documents.
+
+#### 1
+
+- B
+
+    Typeface -- шрифт
+
+    Formatting toolbar -- панель форматирования
+
+    Menu bar -- меню
+
+    Increase indent -- увеличить отступы
+
+    Inserted picture -- вставленная картинка
+
+    Footer -- колонтитул снизу
+
+    Insert picture -- вставить изображение
+
+    Drawing tools -- инструменты для рисования
+
+    Hyperlink -- гиперссылка
+
+    Italic --
+
+    Bold --
+
+    Header -- колонтитул сверху
+
+    Standard toolbar -- стандартное меню
+
+- C
+
+    1. toolbar. Formatting
+    2. typeface.
+    3. bold. italic.
+    4. indent.
+    5. header and footer.
+
+### 2
+
+#### Homework
+
+Создать одну задачу для "робота", со скриншотом в конце задачи.
