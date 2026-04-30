@@ -374,3 +374,56 @@ Word processor -- is a software allows users to edit text documents.
 #### Homework
 
 Создать одну задачу для "робота", со скриншотом в конце задачи.
+
+## 30.04
+
+#### 5 WP tools 
+
+- A. 
+
+1 - a
+2 - c
+3 - b
+
+- B.
+
+1 - Like a conventional thesaurus...
+2 - Their power..
+3 - However 
+
+- C. 
+
+    combine -> combines
+    leter -> letter
+    copys -> copies
+    
+### GUI ex-s
+
+- №1. 
+    
+    1. System software controls the basic functions of computer, while application software lets you do specific jobs such.
+    2. Operating system
+    3. User can run several programs (and do various tasks) at a time.
+    4. Windows, Linux, UNIX
+    5. GNU/Linux
+    6. MacOS
+    7. Windows
+    8. Windows Icons Menus Pointer
+    9. user-friendly
+
+- №2.
+    
+    - desktop - 6
+    - window - 4
+    - drop-down menu - 2
+    - pointer - 1 
+    - folder - 3
+    - program icon - 5
+    - document icon - 7 
+    
+- №3.
+    
+    1. To play I`ll use mpv or mpd, to organize -- gnu coreutils or yazi
+    2. I`ll use zfs built-in features or xfs_repair
+    3. Built-in accesabilities features 
+    4. tar
