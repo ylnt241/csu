@@ -427,3 +427,44 @@ Word processor -- is a software allows users to edit text documents.
     2. I`ll use zfs built-in features or xfs_repair
     3. Built-in accesabilities features 
     4. tar
+
+
+## 05.05.26
+
+### Spreadsheets & DB
+
+#### Task 1
+
+1. A spreadsheet program 
+2. a column
+3. a row
+4. a cell
+5. active cell
+6. formulae
+7. built-in function
+
+#### Task 2
+
+1. spreadsheet
+2. record
+3. record
+4. relational
+5. index
+6. sort
+7. extract
+
+#### Task 3
+
+1. number
+2. text
+3. autonumber
+4. memo
+5. OLE Object
+6. Y/N
+7. OLE Object
+8. date and time
+
+
+#### Task 4
+
+I would include a library catalogue, because first one doesn`t make sence. 
